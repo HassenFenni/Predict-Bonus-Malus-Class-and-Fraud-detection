@@ -1,6 +1,6 @@
 # Predict-Bonus-Malus-Class-and-Fraud-detection
 
-Ce projet nous a été confié par le CGA (comité général des assurance), et consiste à  prédire la classe Bonus Malus des assurés à l'aide de modèles MachineLearning  mais aussi à classer les assurés frauduleux et non frauduleux.  Les objectifs accomplis au cours de ce projet sont les suivant:  
+Ce projet nous a été confié par le CGA (comité général des assurance), et consiste à  prédire la classe Bonus Malus des assurés à l'aide de modèles Machine Learning  mais aussi à classer les assurés frauduleux et non frauduleux.  Les objectifs accomplis au cours de ce projet sont les suivant:  
 
 - Préparation et analyse des données internes et externes  
 - Développement d'un algorithme afin de détecter les activités frauduleuses au sein du  jeu de données de l'assurance  
