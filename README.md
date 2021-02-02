@@ -8,4 +8,5 @@ Les objectifs accomplis au cours de ce projet sont les suivant:
 - Développement d'un modèle de Machine Learning permettant de prédire la classe Bonus Malus des clients non frauduleux
 - Déploiement de l'application sur une plateforme web avec Dash sous Python   
 
-Technologies: Python, Sklearn, Dash, Heroku,..
+Technologies: Python, Sklearn, Dash, Heroku, Pandas, Matplotlib, Numpy, Seaborn, TwitterAPI, NLTK, TextBlob, Dash, Heroku
+
